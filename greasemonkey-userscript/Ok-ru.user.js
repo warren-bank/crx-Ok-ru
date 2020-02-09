@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         FreeTvOnline
+// @name         Ok.ru
 // @description  Transfer video stream to player on WebCast-Reloaded external website.
-// @version      0.1.0
-// @match        *://ok.ru/*
+// @version      0.1.1
+// @match        *://*.ok.ru/videoembed/*
+// @match        *://href.li/?https://ok.ru/videoembed/*
+// @match        *://href.li/?https://www.ok.ru/videoembed/*
 // @icon         https://ok.ru/favicon.ico
 // @run-at       document-idle
 // @homepage     https://github.com/warren-bank/crx-Ok-ru

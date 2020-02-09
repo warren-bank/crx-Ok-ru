@@ -1,11 +1,11 @@
 ### [Ok.ru](https://github.com/warren-bank/crx-Ok-ru)
 
-Transfer video stream from [Ok.ru website](https://ok.ru/) to player on [WebCast-Reloaded](https://github.com/warren-bank/crx-webcast-reloaded) [external website](https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html).
+Transfer embedded video stream from [Ok.ru website](https://ok.ru/) to player on [WebCast-Reloaded](https://github.com/warren-bank/crx-webcast-reloaded) [external website](https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html).
 
 #### Summary:
 
 Chromium browser extension:
-* works on pages that are hosted at: [`ok.ru/*`](https://ok.ru/)
+* works on embedded iframes that are hosted at: [`ok.ru/videoembed/*`](https://ok.ru/)
 
 #### Notes:
 

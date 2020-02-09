@@ -1,10 +1,12 @@
 {
   "name": "Ok.ru",
-  "version": "0.1.0",
-  "description": "Transfer video stream to player on WebCast-Reloaded external website.",
+  "version": "0.1.1",
+  "description": "Transfer embedded video stream to player on WebCast-Reloaded external website.",
   "content_scripts": [{
     "matches": [
-      "*://ok.ru/*"
+      "*://*.ok.ru/videoembed/*",
+      "*://href.li/?https://ok.ru/videoembed/*",
+      "*://href.li/?https://www.ok.ru/videoembed/*"
     ],
     "all_frames": true,
     "run_at": "document_start",

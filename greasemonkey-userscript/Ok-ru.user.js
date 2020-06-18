@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ok.ru
 // @description  Transfer video stream to player on WebCast-Reloaded external website.
-// @version      0.2.0
+// @version      0.2.1
 // @match        *://ok.ru/videoembed/*
 // @match        *://*.ok.ru/videoembed/*
 // @match        *://href.li/?https://ok.ru/videoembed/*
@@ -20,58 +20,65 @@
 // https://www.chromium.org/developers/design-documents/user-scripts
 
 var user_options = {
-  "script_injection_delay_ms":   0,
-  "open_in_webcast_reloaded":    false,
-  "open_in_exoairplayer_sender": true
+  "script_injection_delay_ms":    0,
+  "redirect_to_webcast_reloaded": true,
+  "force_http":                   true,
+  "force_https":                  false
 }
 
 var payload = function(){
-  const get_referer = () => {
-    let url = ''
+  const get_referer_url = function() {
+    let referer_url
     try {
-      url = top.location.href
+      referer_url = top.location.href
     }
-    catch(e){
-      url = window.location.href
+    catch(e) {
+      referer_url = window.location.href
     }
-    return url
+    return referer_url
   }
 
-  const redirect_url = (url) => {
+  const get_webcast_reloaded_url = (hls_url, vtt_url, referer_url) => {
+    let encoded_hls_url, encoded_vtt_url, encoded_referer_url, webcast_reloaded_base, webcast_reloaded_url
+
+    encoded_hls_url       = encodeURIComponent(encodeURIComponent(btoa(hls_url)))
+    encoded_vtt_url       = vtt_url ? encodeURIComponent(encodeURIComponent(btoa(vtt_url))) : null
+    referer_url           = referer_url ? referer_url : get_referer_url()
+    encoded_referer_url   = encodeURIComponent(encodeURIComponent(btoa(referer_url)))
+
+    webcast_reloaded_base = {
+      "https": "https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html",
+      "http":  "http://webcast-reloaded.surge.sh/index.html"
+    }
+
+    webcast_reloaded_base = (window.force_http)
+                              ? webcast_reloaded_base.http
+                              : (window.force_https)
+                                 ? webcast_reloaded_base.https
+                                 : (hls_url.toLowerCase().indexOf('http:') === 0)
+                                    ? webcast_reloaded_base.http
+                                    : webcast_reloaded_base.https
+
+    webcast_reloaded_url  = webcast_reloaded_base + '#/watch/' + encoded_hls_url + (encoded_vtt_url ? ('/subtitle/' + encoded_vtt_url) : '') + '/referer/' + encoded_referer_url
+    return webcast_reloaded_url
+  }
+
+  const redirect_to_url = function(url) {
+    if (!url) return
+
     try {
       top.location = url
     }
-    catch(e){
+    catch(e) {
       window.location = url
     }
   }
 
   const process_video_url = (hls_url) => {
-    let encoded_hls_url, webcast_reloaded_base, webcast_reloaded_url
-    let encoded_referer_url, exoairplayer_base, exoairplayer_url
+    if (hls_url && window.redirect_to_webcast_reloaded) {
+      // transfer video stream
 
-    encoded_hls_url       = encodeURIComponent(encodeURIComponent(btoa(hls_url)))
-    webcast_reloaded_base = {
-      "https": "https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html",
-      "http":  "http://webcast-reloaded.surge.sh/index.html"
-    }
-    webcast_reloaded_base = (hls_url.toLowerCase().indexOf('https:') === 0)
-                              ? webcast_reloaded_base.https
-                              : webcast_reloaded_base.http
-    webcast_reloaded_url  = webcast_reloaded_base + '#/watch/' + encoded_hls_url
-
-    encoded_referer_url   = encodeURIComponent(encodeURIComponent(btoa(get_referer())))
-    exoairplayer_base     = 'http://webcast-reloaded.surge.sh/airplay_sender.html'
-    exoairplayer_url      = exoairplayer_base  + '#/watch/' + encoded_hls_url + '/referer/' + encoded_referer_url
-
-    if (window.open_in_webcast_reloaded && webcast_reloaded_url) {
-      redirect_url(webcast_reloaded_url)
-      return
-    }
-
-    if (window.open_in_exoairplayer_sender && exoairplayer_url) {
-      redirect_url(exoairplayer_url)
-      return
+      redirect_to_url(get_webcast_reloaded_url(hls_url))
     }
   }
 
@@ -125,22 +132,21 @@ var inject_function = function(_function){
 
 var inject_options = function(){
   var _function = `function(){
-    window.open_in_webcast_reloaded    = ${user_options['open_in_webcast_reloaded']}
-    window.open_in_exoairplayer_sender = ${user_options['open_in_exoairplayer_sender']}
+    window.redirect_to_webcast_reloaded = ${user_options['redirect_to_webcast_reloaded']}
+    window.force_http                   = ${user_options['force_http']}
+    window.force_https                  = ${user_options['force_https']}
   }`
   inject_function(_function)
 }
 
-var inject_options_then_function = function(_function){
+var bootstrap = function(){
   inject_options()
-  inject_function(_function)
+  inject_function(payload)
 }
 
-if (user_options['open_in_webcast_reloaded'] || user_options['open_in_exoairplayer_sender']){
+if (user_options['redirect_to_webcast_reloaded']){
   setTimeout(
-    function(){
-      inject_options_then_function(payload)
-    },
+    bootstrap,
     user_options['script_injection_delay_ms']
   )
 }

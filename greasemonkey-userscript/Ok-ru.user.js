@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         Ok.ru
 // @description  Transfer video stream to player on WebCast-Reloaded external website.
-// @version      0.2.1
+// @version      0.2.2
 // @match        *://ok.ru/videoembed/*
 // @match        *://*.ok.ru/videoembed/*
 // @match        *://href.li/?https://ok.ru/videoembed/*
 // @match        *://href.li/?https://www.ok.ru/videoembed/*
+// @match        *://ok.ru/video/*
+// @match        *://*.ok.ru/video/*
+// @match        *://href.li/?https://ok.ru/video/*
+// @match        *://href.li/?https://www.ok.ru/video/*
 // @icon         https://ok.ru/favicon.ico
 // @run-at       document-idle
 // @homepage     https://github.com/warren-bank/crx-Ok-ru/tree/greasemonkey-userscript
@@ -75,18 +79,34 @@ var payload = function(){
   }
 
   const process_video_url = (hls_url) => {
-    if (hls_url && window.redirect_to_webcast_reloaded) {
-      // transfer video stream
+    if (!hls_url) return
 
+    // expand ascii-encoded unicode
+    while(hls_url.indexOf('\\u') !== -1)
+      hls_url = JSON.parse('"' + hls_url + '"')
+
+    // transfer video stream
+    if (window.redirect_to_webcast_reloaded)
       redirect_to_url(get_webcast_reloaded_url(hls_url))
-    }
   }
 
   const process_data = (data) => {
-    const regex = /^.*?\\"hlsMasterPlaylistUrl\\":\\"(http[^"]+)\\".*$/i
-    if (!regex.test(data)) return
-    const hls_url = data.replace(regex, '$1')
-    process_video_url(hls_url)
+    let regex, hls_url
+
+    if (!hls_url) {
+      regex = /^.*?\\"hlsMasterPlaylistUrl\\":\\"(http[^"]+)\\".*$/i
+      if (regex.test(data))
+        hls_url = data.replace(regex, '$1')
+    }
+
+    if (!hls_url) {
+      regex = /^.*?\\"hlsManifestUrl\\":\\"(http[^"]+)\\".*$/i
+      if (regex.test(data))
+        hls_url = data.replace(regex, '$1')
+    }
+
+    if (hls_url)
+      process_video_url(hls_url)
   }
 
   const process_page = () => {
@@ -99,7 +119,17 @@ var payload = function(){
     process_data(data)
   }
 
-  process_page()
+  const init = () => {
+    const href  = window.location.href
+    const regex = new RegExp('ok.ru/video/', 'i')
+
+    if (regex.test(href))
+      redirect_to_url(href.replace(regex, 'ok.ru/videoembed/'))
+    else
+      process_page()
+  }
+
+  init()
 }
 
 var get_hash_code = function(str){

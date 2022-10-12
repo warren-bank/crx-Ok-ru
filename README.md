@@ -1,19 +1,21 @@
-### [Ok.ru](https://github.com/warren-bank/crx-Ok-ru)
+### [Ok.ru](https://github.com/warren-bank/crx-Ok-ru/tree/greasemonkey-userscript)
 
-Transfer embedded video stream from [Ok.ru website](https://ok.ru/) to either:
-* an HTML5 video player on the [WebCast-Reloaded](https://github.com/warren-bank/crx-webcast-reloaded) [external website](https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html)
-* an instance of [ExoAirPlayer](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases)
+[Userscript](https://github.com/warren-bank/crx-Ok-ru/raw/greasemonkey-userscript/greasemonkey-userscript/Ok-ru.user.js) for [Ok.ru](https://ok.ru/) to run in:
+* the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) web browser extension for Chrome/Chromium
 
-#### Summary:
+Its purpose is to:
+* transfer video streams to the top-level tool on the [Webcast-Reloaded](https://github.com/warren-bank/crx-webcast-reloaded) external [website](https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html)
+  - mainly for use with:
+    * _Google Chromecast_
+    * [_ExoAirPlayer_](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver)
+    * [_HLS-Proxy_](https://github.com/warren-bank/HLS-Proxy)
 
-[Greasemonkey userscript](https://github.com/warren-bank/crx-Ok-ru/raw/greasemonkey-userscript/greasemonkey-userscript/Ok-ru.user.js):
-* works on embedded iframes that are hosted at: [`ok.ru/videoembed/*`](https://ok.ru/)
+#### Stale Branch:
 
-#### Notes:
-
-* video streams __will not__ play directly in the browser window
-  - lack of permissive CORS HTTP response headers
-* video streams __will__ play directly on Chromecast and ExoAirPlayer
+* this branch is no-longer maintained
+  - the [`webmonkey-userscript/es5`](https://github.com/warren-bank/crx-Ok-ru/tree/webmonkey-userscript/es5) branch:
+    * is an enhanced version of this userscript
+    * supports older browsers (ex: Android 4.x WebView)
 
 #### Legal:
 

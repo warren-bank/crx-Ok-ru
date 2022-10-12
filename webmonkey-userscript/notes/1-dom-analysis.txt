@@ -1,0 +1,219 @@
+--------------------------------------------------------------------------------
+
+https://nfl-video.com/las-vegas-raiders-vs-kansas-city-chiefs-full-game-replay-2022-nfl-week-5
+https://ok.ru/videoembed/4444675574328
+
+--------------------------------------------------------------------------------
+// view-source:https://ok.ru/videoembed/4444675574328
+
+<div class="vid-card vid-card__fullscreen h-mod" data-module="VideoEmbed">
+<div data-module="OKVideo" data-options="{&quot;playerId&quot;:&quot;VideoPopup_player_4444675574328&quot;,&quot;width&quot;:&quot;491&quot;,&quot;height&quot;:&quot;275&quot;,&quot;notifyEnabled&quot;:true,&quot;url&quot;:&quot;https://st.mycdn.me/static/MegaPlayer/10-10-15/vp.swf&quot;,&quot;url11&quot;:&quot;https://st.mycdn.me/static/MegaPlayer/10-10-15/vp11.swf&quot;,&quot;html5url&quot;:&quot;//st.mycdn.me/static/MegaPlayer/10-11-73/okHtml5Player.min&quot;,&quot;minFlashVersionNewPlayer&quot;:&quot;11.2&quot;,&quot;wmode&quot;:&quot;opaque&quot;,&quot;asa&quot;:true,&quot;provider&quot;:&quot;UPLOADED_ODKL&quot;,&quot;flashvars&quot;:{&quot;relatedAlways&quot;:&quot;1&quot;,&quot;metadata&quot;:&quot;{\&quot;provider\&quot;:\&quot;UPLOADED_ODKL\&quot;,\&quot;service\&quot;:\&quot;ok\&quot;,\&quot;owner\&quot;:false,\&quot;voted\&quot;:false,\&quot;likeCount\&quot;:0,\&quot;subscribed\&quot;:false,\&quot;isWatchLater\&quot;:false,\&quot;slot\&quot;:0,\&quot;siteZone\&quot;:-1,\&quot;showAd\&quot;:false,\&quot;fromTime\&quot;:0,\&quot;author\&quot;:{\&quot;id\&quot;:\&quot;598799625528\&quot;,\&quot;name\&quot;:\&quot;Anonymous 123\&quot;,\&quot;profile\&quot;:\&quot;/profile/598799625528\&quot;},\&quot;movie\&quot;:{\&quot;id\&quot;:\&quot;4444675574328\&quot;,\&quot;movieId\&quot;:\&quot;4444675574328\&quot;,\&quot;likeId\&quot;:\&quot;4444675574328\&quot;,\&quot;contentId\&quot;:\&quot;1234567890123\&quot;,\&quot;poster\&quot;:\&quot;https://i.mycdn.me/videoPreview?id=1234567890123\\u0026type=37\\u0026idx=1\\u0026tkn=RkZzcL3Cy5Op2im70smV-enwLrY\\u0026fn=external_8\&quot;,\&quot;duration\&quot;:\&quot;8637\&quot;,\&quot;title\&quot;:\&quot;2022-10-10.W05_LV@KC\&quot;,\&quot;url\&quot;:\&quot;https://ok.ru/video/4444675574328\&quot;,\&quot;link\&quot;:\&quot;/video/4444675574328\&quot;,\&quot;collageInfo\&quot;:{\&quot;imageType\&quot;:\&quot;COLLAGE\&quot;,\&quot;url\&quot;:\&quot;https://i.mycdn.me/videoPreview?id=1234567890123\\u0026type=36\\u0026idx=0\\u0026tkn=gVFpoJdxmpjjv1T3ULFHIx6Ktg0\&quot;,\&quot;frequency\&quot;:30,\&quot;height\&quot;:44,\&quot;width\&quot;:80,\&quot;count\&quot;:288,\&quot;tileWidth\&quot;:40,\&quot;tileHeight\&quot;:8},\&quot;status\&quot;:\&quot;OK\&quot;,\&quot;statusText\&quot;:\&quot;OK\&quot;,\&quot;isLive\&quot;:false,\&quot;notPublished\&quot;:false},\&quot;admanMetadata\&quot;:{},\&quot;partnerId\&quot;:0,\&quot;ownerMovieId\&quot;:\&quot;4444675574328\&quot;,\&quot;alwaysShowRec\&quot;:false,\&quot;videos\&quot;:[{\&quot;name\&quot;:\&quot;mobile\&quot;,\&quot;url\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=4\\u0026sig=7cBa1yPcLGE\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;lowest\&quot;,\&quot;url\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=0\\u0026sig=YAR-TpHl0qU\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;low\&quot;,\&quot;url\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=1\\u0026sig=rWh-IoJIN2w\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;sd\&quot;,\&quot;url\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=2\\u0026sig=6vV45UuLkho\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;hd\&quot;,\&quot;url\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=3\\u0026sig=CmEcajPsIVg\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false}],\&quot;metadataEmbedded\&quot;:\&quot;\\u003C?xml version=\\\&quot;1.0\\\&quot; encoding=\\\&quot;UTF-8\\\&quot;?\\u003E\\u003CMPD xmlns:xsi=\\\&quot;http://www.w3.org/2001/XMLSchema-instance\\\&quot; xmlns=\\\&quot;urn:mpeg:DASH:schema:MPD:2011\\\&quot; xsi:schemaLocation=\\\&quot;urn:mpeg:DASH:schema:MPD:2011\\\&quot; type=\\\&quot;static\\\&quot; mediaPresentationDuration=\\\&quot;PT8637.910S\\\&quot; minBufferTime=\\\&quot;PT0.5S\\\&quot; profiles=\\\&quot;urn:mpeg:dash:profile:isoff-on-demand:2011\\\&quot;\\u003E\\u003CPeriod id=\\\&quot;0\\\&quot; start=\\\&quot;PT0S\\\&quot; duration=\\\&quot;PT8637.910S\\\&quot;\\u003E\\u003CAdaptationSet id=\\\&quot;0\\\&quot; segmentAlignment=\\\&quot;true\\\&quot; subsegmentAlignment=\\\&quot;true\\\&quot; subsegmentStartsWithSAP=\\\&quot;1\\\&quot;\\u003E\\u003CRepresentation id=\\\&quot;0\\\&quot; bandwidth=\\\&quot;122768\\\&quot; width=\\\&quot;256\\\&quot; height=\\\&quot;144\\\&quot; quality=\\\&quot;mobile\\\&quot; frameRate=\\\&quot;30\\\&quot; codecs=\\\&quot;avc1.64000C,mp4a.40.2\\\&quot; audioSamplingRate=\\\&quot;44100\\\&quot; mimeType=\\\&quot;video/mp4\\\&quot; startWithSAP=\\\&quot;1\\\&quot;\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=4\\u0026amp;sig=mqo1HAhC3II\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\&quot;1342-8285\\\&quot;\\u003E\\u003CInitialization range=\\\&quot;0-1341\\\&quot;/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\&quot;1\\\&quot; bandwidth=\\\&quot;359152\\\&quot; width=\\\&quot;426\\\&quot; height=\\\&quot;240\\\&quot; quality=\\\&quot;lowest\\\&quot; frameRate=\\\&quot;30\\\&quot; codecs=\\\&quot;avc1.640015,mp4a.40.2\\\&quot; audioSamplingRate=\\\&quot;44100\\\&quot; mimeType=\\\&quot;video/mp4\\\&quot; startWithSAP=\\\&quot;1\\\&quot;\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=0\\u0026amp;sig=LEXRM1zllVc\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\&quot;1343-8286\\\&quot;\\u003E\\u003CInitialization range=\\\&quot;0-1342\\\&quot;/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\&quot;2\\\&quot; bandwidth=\\\&quot;765536\\\&quot; width=\\\&quot;640\\\&quot; height=\\\&quot;360\\\&quot; quality=\\\&quot;low\\\&quot; frameRate=\\\&quot;30\\\&quot; codecs=\\\&quot;avc1.64001E,mp4a.40.2\\\&quot; audioSamplingRate=\\\&quot;44100\\\&quot; mimeType=\\\&quot;video/mp4\\\&quot; startWithSAP=\\\&quot;1\\\&quot;\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=1\\u0026amp;sig=BOmnwLsZ7PM\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\&quot;1344-8287\\\&quot;\\u003E\\u003CInitialization range=\\\&quot;0-1343\\\&quot;/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\&quot;3\\\&quot; bandwidth=\\\&quot;1361072\\\&quot; width=\\\&quot;852\\\&quot; height=\\\&quot;480\\\&quot; quality=\\\&quot;sd\\\&quot; frameRate=\\\&quot;30\\\&quot; codecs=\\\&quot;avc1.64001F,mp4a.40.2\\\&quot; audioSamplingRate=\\\&quot;44100\\\&quot; mimeType=\\\&quot;video/mp4\\\&quot; startWithSAP=\\\&quot;1\\\&quot;\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=2\\u0026amp;sig=gKMqkxSHfAA\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\&quot;1344-8287\\\&quot;\\u003E\\u003CInitialization range=\\\&quot;0-1343\\\&quot;/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\&quot;4\\\&quot; bandwidth=\\\&quot;4971144\\\&quot; width=\\\&quot;1280\\\&quot; height=\\\&quot;720\\\&quot; quality=\\\&quot;hd\\\&quot; frameRate=\\\&quot;60\\\&quot; codecs=\\\&quot;avc1.640020,mp4a.40.2\\\&quot; audioSamplingRate=\\\&quot;44100\\\&quot; mimeType=\\\&quot;video/mp4\\\&quot; startWithSAP=\\\&quot;1\\\&quot;\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=3\\u0026amp;sig=W385xiTRlO8\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\&quot;1343-8286\\\&quot;\\u003E\\u003CInitialization range=\\\&quot;0-1342\\\&quot;/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003C/AdaptationSet\\u003E\\u003C/Period\\u003E\\u003C/MPD\\u003E\&quot;,\&quot;metadataUrl\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=1\\u0026sig=rWh-IoJIN2w\\u0026ct=6\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;metadataWebmUrl\&quot;:\&quot;https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=4\\u0026sig=7cBa1yPcLGE\\u0026ct=6\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\&quot;,\&quot;hlsManifestUrl\&quot;:\&quot;https://vd390.mycdn.me/video.m3u8?cmd=videoPlayerCdn\\u0026expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026srcAg=CHROME\\u0026ms=zzz.zzz.zzz.zzz\\u0026type=4\\u0026sig=Wy_F4sAOoN8\\u0026ct=8\\u0026urls=xyz.xyz.xyz.xyz\\u0026clientType=0\\u0026id=1234567890123\&quot;,\&quot;failoverHosts\&quot;:[\&quot;vd390.mycdn.me\&quot;,\&quot;vd331.mycdn.me\&quot;],\&quot;autoplay\&quot;:{\&quot;autoplayEnabled\&quot;:true,\&quot;timeFromEnabled\&quot;:true,\&quot;noRec\&quot;:false,\&quot;fullScreenExit\&quot;:false,\&quot;vitrinaSection\&quot;:\&quot;recommended_movie\&quot;},\&quot;security\&quot;:{\&quot;url\&quot;:\&quot;https://ok6-8.vkuser.net/usr_login\&quot;,\&quot;cookie\&quot;:\&quot;vdsig\&quot;},\&quot;p2pInfo\&quot;:{\&quot;isPeerEnabled\&quot;:false,\&quot;ubsc\&quot;:0,\&quot;pbsc\&quot;:0,\&quot;mptpc\&quot;:0,\&quot;pctmt\&quot;:0,\&quot;pbesc\&quot;:0,\&quot;prrt\&quot;:0,\&quot;srt\&quot;:0,\&quot;swrt\&quot;:0,\&quot;dctt\&quot;:0},\&quot;stunServers\&quot;:[{\&quot;urls\&quot;:[\&quot;stun:videostun.mycdn.me:80\&quot;]}]}&quot;,&quot;saveLastPlayingTimeFrom&quot;:&quot;30&quot;,&quot;castId&quot;:&quot;559D7832&quot;,&quot;noDownload&quot;:&quot;1&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;noChatLikes&quot;:&quot;1&quot;,&quot;noChannel&quot;:&quot;1&quot;,&quot;webmSec&quot;:&quot;20&quot;,&quot;enabledLocalStorage&quot;:&quot;1&quot;,&quot;minCacheTime&quot;:&quot;120&quot;,&quot;maxCachePartOfDurationMQ&quot;:&quot;30&quot;,&quot;checkMQ&quot;:&quot;1&quot;,&quot;noTrailer&quot;:&quot;1&quot;,&quot;recSlot&quot;:&quot;7178&quot;,&quot;noLikeButton&quot;:&quot;1&quot;,&quot;maxCachePartOfDuration&quot;:&quot;10&quot;,&quot;isAnonym&quot;:&quot;1&quot;,&quot;jidx&quot;:&quot;1&quot;,&quot;hideWatermark&quot;:&quot;0&quot;,&quot;isEmbed&quot;:&quot;1&quot;,&quot;noOkliveBanner&quot;:&quot;1&quot;,&quot;minCacheTimeMQ&quot;:&quot;20&quot;,&quot;ldChunk&quot;:&quot;2000&quot;,&quot;showChat&quot;:&quot;1&quot;,&quot;ldBuffer&quot;:&quot;6000&quot;,&quot;feedAdLogic&quot;:&quot;15,3,3,14400&quot;,&quot;siteId&quot;:&quot;504&quot;,&quot;location&quot;:&quot;AnonymVideoEmbed/anonymVideoEmbed/anonym&quot;,&quot;hideExpand&quot;:&quot;1&quot;,&quot;adLogic&quot;:&quot;15,0,3,14400&quot;,&quot;checkAutoplayBrowsers&quot;:&quot;safari,chrome,opera,yandex,firefox&quot;},&quot;liveRertyTimeout&quot;:5000,&quot;poster&quot;:&quot;https://i.mycdn.me/videoPreview?id=1234567890123\u0026type=37\u0026idx=1\u0026tkn=RkZzcL3Cy5Op2im70smV-enwLrY\u0026fn=external_8&quot;,&quot;isExternalPlayer&quot;:false,&quot;isIframePlayer&quot;:false,&quot;isHtml5Player&quot;:true,&quot;timestamp&quot;:&quot;1665538843118&quot;,&quot;stubEnabled&quot;:false,&quot;verifyInline&quot;:false,&quot;webrtcBrokenH264&quot;:false,&quot;playerLocalizationEnabled&quot;:true}" data-player-container-id="embedVideoC" data-player-element-id="embedVideoE" data-visible-part="1" data-use-events-for-showing="true" class="vid-card_cnt h-mod"><div class="vid-card_cnt_w" data-l="t,play" id="embedVideoC">
+
+--------------------------------------------------------------------------------
+// https://ok.ru/videoembed/4444675574328
+
+console:
+========
+{
+  const el      = document.querySelector('[data-module="VideoEmbed"] > [data-module="OKVideo"][data-options]')
+  const data    = el.getAttribute('data-options')
+  const options = JSON.parse(data)
+
+  console.log(JSON.stringify(options, null, 4))
+}
+
+output:
+=======
+{
+    "playerId": "VideoPopup_player_4444675574328",
+    "width": "491",
+    "height": "275",
+    "notifyEnabled": true,
+    "url": "https://st.mycdn.me/static/MegaPlayer/10-10-15/vp.swf",
+    "url11": "https://st.mycdn.me/static/MegaPlayer/10-10-15/vp11.swf",
+    "html5url": "//st.mycdn.me/static/MegaPlayer/10-11-73/okHtml5Player.min",
+    "minFlashVersionNewPlayer": "11.2",
+    "wmode": "opaque",
+    "asa": true,
+    "provider": "UPLOADED_ODKL",
+    "flashvars": {
+        "relatedAlways": "1",
+        "metadata": "{\"provider\":\"UPLOADED_ODKL\",\"service\":\"ok\",\"owner\":false,\"voted\":false,\"likeCount\":0,\"subscribed\":false,\"isWatchLater\":false,\"slot\":0,\"siteZone\":-1,\"showAd\":false,\"fromTime\":0,\"author\":{\"id\":\"598799625528\",\"name\":\"Anonymous 123\",\"profile\":\"/profile/598799625528\"},\"movie\":{\"id\":\"4444675574328\",\"movieId\":\"4444675574328\",\"likeId\":\"4444675574328\",\"contentId\":\"1234567890123\",\"poster\":\"https://i.mycdn.me/videoPreview?id=1234567890123\\u0026type=37\\u0026idx=1\\u0026tkn=RkZzcL3Cy5Op2im70smV-enwLrY\\u0026fn=external_8\",\"duration\":\"8637\",\"title\":\"2022-10-10.W05_LV@KC\",\"url\":\"https://ok.ru/video/4444675574328\",\"link\":\"/video/4444675574328\",\"collageInfo\":{\"imageType\":\"COLLAGE\",\"url\":\"https://i.mycdn.me/videoPreview?id=1234567890123\\u0026type=36\\u0026idx=0\\u0026tkn=gVFpoJdxmpjjv1T3ULFHIx6Ktg0\",\"frequency\":30,\"height\":44,\"width\":80,\"count\":288,\"tileWidth\":40,\"tileHeight\":8},\"status\":\"OK\",\"statusText\":\"OK\",\"isLive\":false,\"notPublished\":false},\"admanMetadata\":{},\"partnerId\":0,\"ownerMovieId\":\"4444675574328\",\"alwaysShowRec\":false,\"videos\":[{\"name\":\"mobile\",\"url\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=4\\u0026sig=7cBa1yPcLGE\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"seekSchema\":3,\"disallowed\":false},{\"name\":\"lowest\",\"url\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=0\\u0026sig=YAR-TpHl0qU\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"seekSchema\":3,\"disallowed\":false},{\"name\":\"low\",\"url\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=1\\u0026sig=rWh-IoJIN2w\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"seekSchema\":3,\"disallowed\":false},{\"name\":\"sd\",\"url\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=2\\u0026sig=6vV45UuLkho\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"seekSchema\":3,\"disallowed\":false},{\"name\":\"hd\",\"url\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=3\\u0026sig=CmEcajPsIVg\\u0026ct=0\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"seekSchema\":3,\"disallowed\":false}],\"metadataEmbedded\":\"\\u003C?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?\\u003E\\u003CMPD xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\" xmlns=\\\"urn:mpeg:DASH:schema:MPD:2011\\\" xsi:schemaLocation=\\\"urn:mpeg:DASH:schema:MPD:2011\\\" type=\\\"static\\\" mediaPresentationDuration=\\\"PT8637.910S\\\" minBufferTime=\\\"PT0.5S\\\" profiles=\\\"urn:mpeg:dash:profile:isoff-on-demand:2011\\\"\\u003E\\u003CPeriod id=\\\"0\\\" start=\\\"PT0S\\\" duration=\\\"PT8637.910S\\\"\\u003E\\u003CAdaptationSet id=\\\"0\\\" segmentAlignment=\\\"true\\\" subsegmentAlignment=\\\"true\\\" subsegmentStartsWithSAP=\\\"1\\\"\\u003E\\u003CRepresentation id=\\\"0\\\" bandwidth=\\\"122768\\\" width=\\\"256\\\" height=\\\"144\\\" quality=\\\"mobile\\\" frameRate=\\\"30\\\" codecs=\\\"avc1.64000C,mp4a.40.2\\\" audioSamplingRate=\\\"44100\\\" mimeType=\\\"video/mp4\\\" startWithSAP=\\\"1\\\"\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=4\\u0026amp;sig=mqo1HAhC3II\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\"1342-8285\\\"\\u003E\\u003CInitialization range=\\\"0-1341\\\"/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\"1\\\" bandwidth=\\\"359152\\\" width=\\\"426\\\" height=\\\"240\\\" quality=\\\"lowest\\\" frameRate=\\\"30\\\" codecs=\\\"avc1.640015,mp4a.40.2\\\" audioSamplingRate=\\\"44100\\\" mimeType=\\\"video/mp4\\\" startWithSAP=\\\"1\\\"\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=0\\u0026amp;sig=LEXRM1zllVc\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\"1343-8286\\\"\\u003E\\u003CInitialization range=\\\"0-1342\\\"/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\"2\\\" bandwidth=\\\"765536\\\" width=\\\"640\\\" height=\\\"360\\\" quality=\\\"low\\\" frameRate=\\\"30\\\" codecs=\\\"avc1.64001E,mp4a.40.2\\\" audioSamplingRate=\\\"44100\\\" mimeType=\\\"video/mp4\\\" startWithSAP=\\\"1\\\"\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=1\\u0026amp;sig=BOmnwLsZ7PM\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\"1344-8287\\\"\\u003E\\u003CInitialization range=\\\"0-1343\\\"/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\"3\\\" bandwidth=\\\"1361072\\\" width=\\\"852\\\" height=\\\"480\\\" quality=\\\"sd\\\" frameRate=\\\"30\\\" codecs=\\\"avc1.64001F,mp4a.40.2\\\" audioSamplingRate=\\\"44100\\\" mimeType=\\\"video/mp4\\\" startWithSAP=\\\"1\\\"\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=2\\u0026amp;sig=gKMqkxSHfAA\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\"1344-8287\\\"\\u003E\\u003CInitialization range=\\\"0-1343\\\"/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003CRepresentation id=\\\"4\\\" bandwidth=\\\"4971144\\\" width=\\\"1280\\\" height=\\\"720\\\" quality=\\\"hd\\\" frameRate=\\\"60\\\" codecs=\\\"avc1.640020,mp4a.40.2\\\" audioSamplingRate=\\\"44100\\\" mimeType=\\\"video/mp4\\\" startWithSAP=\\\"1\\\"\\u003E\\u003CBaseURL\\u003Ehttps://ok6-8.vkuser.net/?expires=1665625243115\\u0026amp;srcIp=xxx.xxx.xxx.xxx\\u0026amp;pr=10\\u0026amp;srcAg=CHROME\\u0026amp;ms=yyy.yyy.yyy.yyy\\u0026amp;type=3\\u0026amp;sig=W385xiTRlO8\\u0026amp;ct=4\\u0026amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026amp;clientType=0\\u0026amp;id=1234567890123\\u003C/BaseURL\\u003E\\u003CSegmentBase indexRange=\\\"1343-8286\\\"\\u003E\\u003CInitialization range=\\\"0-1342\\\"/\\u003E\\u003C/SegmentBase\\u003E\\u003C/Representation\\u003E\\u003C/AdaptationSet\\u003E\\u003C/Period\\u003E\\u003C/MPD\\u003E\",\"metadataUrl\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=1\\u0026sig=rWh-IoJIN2w\\u0026ct=6\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"metadataWebmUrl\":\"https://ok6-8.vkuser.net/?expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=yyy.yyy.yyy.yyy\\u0026type=4\\u0026sig=7cBa1yPcLGE\\u0026ct=6\\u0026urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz\\u0026clientType=0\\u0026zs=43\\u0026id=1234567890123\",\"hlsManifestUrl\":\"https://vd390.mycdn.me/video.m3u8?cmd=videoPlayerCdn\\u0026expires=1665625243115\\u0026srcIp=xxx.xxx.xxx.xxx\\u0026srcAg=CHROME\\u0026ms=zzz.zzz.zzz.zzz\\u0026type=4\\u0026sig=Wy_F4sAOoN8\\u0026ct=8\\u0026urls=xyz.xyz.xyz.xyz\\u0026clientType=0\\u0026id=1234567890123\",\"failoverHosts\":[\"vd390.mycdn.me\",\"vd331.mycdn.me\"],\"autoplay\":{\"autoplayEnabled\":true,\"timeFromEnabled\":true,\"noRec\":false,\"fullScreenExit\":false,\"vitrinaSection\":\"recommended_movie\"},\"security\":{\"url\":\"https://ok6-8.vkuser.net/usr_login\",\"cookie\":\"vdsig\"},\"p2pInfo\":{\"isPeerEnabled\":false,\"ubsc\":0,\"pbsc\":0,\"mptpc\":0,\"pctmt\":0,\"pbesc\":0,\"prrt\":0,\"srt\":0,\"swrt\":0,\"dctt\":0},\"stunServers\":[{\"urls\":[\"stun:videostun.mycdn.me:80\"]}]}",
+        "saveLastPlayingTimeFrom": "30",
+        "castId": "559D7832",
+        "noDownload": "1",
+        "locale": "en",
+        "noChatLikes": "1",
+        "noChannel": "1",
+        "webmSec": "20",
+        "enabledLocalStorage": "1",
+        "minCacheTime": "120",
+        "maxCachePartOfDurationMQ": "30",
+        "checkMQ": "1",
+        "noTrailer": "1",
+        "recSlot": "7178",
+        "noLikeButton": "1",
+        "maxCachePartOfDuration": "10",
+        "isAnonym": "1",
+        "jidx": "1",
+        "hideWatermark": "0",
+        "isEmbed": "1",
+        "noOkliveBanner": "1",
+        "minCacheTimeMQ": "20",
+        "ldChunk": "2000",
+        "showChat": "1",
+        "ldBuffer": "6000",
+        "feedAdLogic": "15,3,3,14400",
+        "siteId": "504",
+        "location": "AnonymVideoEmbed/anonymVideoEmbed/anonym",
+        "hideExpand": "1",
+        "adLogic": "15,0,3,14400",
+        "checkAutoplayBrowsers": "safari,chrome,opera,yandex,firefox"
+    },
+    "liveRertyTimeout": 5000,
+    "poster": "https://i.mycdn.me/videoPreview?id=1234567890123&type=37&idx=1&tkn=RkZzcL3Cy5Op2im70smV-enwLrY&fn=external_8",
+    "isExternalPlayer": false,
+    "isIframePlayer": false,
+    "isHtml5Player": true,
+    "timestamp": "1665538843118",
+    "stubEnabled": false,
+    "verifyInline": false,
+    "webrtcBrokenH264": false,
+    "playerLocalizationEnabled": true
+}
+
+--------------------------------------------------------------------------------
+// https://ok.ru/videoembed/4444675574328
+
+console:
+========
+{
+  const el       = document.querySelector('[data-module="VideoEmbed"] > [data-module="OKVideo"][data-options]')
+  const data     = el.getAttribute('data-options')
+  const options  = JSON.parse(data)
+  const metadata = JSON.parse(options.flashvars.metadata)
+
+  console.log(JSON.stringify(metadata, null, 4))
+}
+
+output:
+=======
+{
+    "provider": "UPLOADED_ODKL",
+    "service": "ok",
+    "owner": false,
+    "voted": false,
+    "likeCount": 0,
+    "subscribed": false,
+    "isWatchLater": false,
+    "slot": 0,
+    "siteZone": -1,
+    "showAd": false,
+    "fromTime": 0,
+    "author": {
+        "id": "598799625528",
+        "name": "Anonymous 123",
+        "profile": "/profile/598799625528"
+    },
+    "movie": {
+        "id": "4444675574328",
+        "movieId": "4444675574328",
+        "likeId": "4444675574328",
+        "contentId": "1234567890123",
+        "poster": "https://i.mycdn.me/videoPreview?id=1234567890123&type=37&idx=1&tkn=RkZzcL3Cy5Op2im70smV-enwLrY&fn=external_8",
+        "duration": "8637",
+        "title": "2022-10-10.W05_LV@KC",
+        "url": "https://ok.ru/video/4444675574328",
+        "link": "/video/4444675574328",
+        "collageInfo": {
+            "imageType": "COLLAGE",
+            "url": "https://i.mycdn.me/videoPreview?id=1234567890123&type=36&idx=0&tkn=gVFpoJdxmpjjv1T3ULFHIx6Ktg0",
+            "frequency": 30,
+            "height": 44,
+            "width": 80,
+            "count": 288,
+            "tileWidth": 40,
+            "tileHeight": 8
+        },
+        "status": "OK",
+        "statusText": "OK",
+        "isLive": false,
+        "notPublished": false
+    },
+    "admanMetadata": {},
+    "partnerId": 0,
+    "ownerMovieId": "4444675574328",
+    "alwaysShowRec": false,
+    "videos": [
+        {
+            "name": "mobile",
+            "url": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=4&sig=7cBa1yPcLGE&ct=0&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+            "seekSchema": 3,
+            "disallowed": false
+        },
+        {
+            "name": "lowest",
+            "url": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=0&sig=YAR-TpHl0qU&ct=0&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+            "seekSchema": 3,
+            "disallowed": false
+        },
+        {
+            "name": "low",
+            "url": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=1&sig=rWh-IoJIN2w&ct=0&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+            "seekSchema": 3,
+            "disallowed": false
+        },
+        {
+            "name": "sd",
+            "url": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=2&sig=6vV45UuLkho&ct=0&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+            "seekSchema": 3,
+            "disallowed": false
+        },
+        {
+            "name": "hd",
+            "url": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=3&sig=CmEcajPsIVg&ct=0&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+            "seekSchema": 3,
+            "disallowed": false
+        }
+    ],
+    "metadataEmbedded": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT8637.910S\" minBufferTime=\"PT0.5S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\"><Period id=\"0\" start=\"PT0S\" duration=\"PT8637.910S\"><AdaptationSet id=\"0\" segmentAlignment=\"true\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\"><Representation id=\"0\" bandwidth=\"122768\" width=\"256\" height=\"144\" quality=\"mobile\" frameRate=\"30\" codecs=\"avc1.64000C,mp4a.40.2\" audioSamplingRate=\"44100\" mimeType=\"video/mp4\" startWithSAP=\"1\"><BaseURL>https://ok6-8.vkuser.net/?expires=1665625243115&amp;srcIp=xxx.xxx.xxx.xxx&amp;pr=10&amp;srcAg=CHROME&amp;ms=yyy.yyy.yyy.yyy&amp;type=4&amp;sig=mqo1HAhC3II&amp;ct=4&amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&amp;clientType=0&amp;id=1234567890123</BaseURL><SegmentBase indexRange=\"1342-8285\"><Initialization range=\"0-1341\"/></SegmentBase></Representation><Representation id=\"1\" bandwidth=\"359152\" width=\"426\" height=\"240\" quality=\"lowest\" frameRate=\"30\" codecs=\"avc1.640015,mp4a.40.2\" audioSamplingRate=\"44100\" mimeType=\"video/mp4\" startWithSAP=\"1\"><BaseURL>https://ok6-8.vkuser.net/?expires=1665625243115&amp;srcIp=xxx.xxx.xxx.xxx&amp;pr=10&amp;srcAg=CHROME&amp;ms=yyy.yyy.yyy.yyy&amp;type=0&amp;sig=LEXRM1zllVc&amp;ct=4&amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&amp;clientType=0&amp;id=1234567890123</BaseURL><SegmentBase indexRange=\"1343-8286\"><Initialization range=\"0-1342\"/></SegmentBase></Representation><Representation id=\"2\" bandwidth=\"765536\" width=\"640\" height=\"360\" quality=\"low\" frameRate=\"30\" codecs=\"avc1.64001E,mp4a.40.2\" audioSamplingRate=\"44100\" mimeType=\"video/mp4\" startWithSAP=\"1\"><BaseURL>https://ok6-8.vkuser.net/?expires=1665625243115&amp;srcIp=xxx.xxx.xxx.xxx&amp;pr=10&amp;srcAg=CHROME&amp;ms=yyy.yyy.yyy.yyy&amp;type=1&amp;sig=BOmnwLsZ7PM&amp;ct=4&amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&amp;clientType=0&amp;id=1234567890123</BaseURL><SegmentBase indexRange=\"1344-8287\"><Initialization range=\"0-1343\"/></SegmentBase></Representation><Representation id=\"3\" bandwidth=\"1361072\" width=\"852\" height=\"480\" quality=\"sd\" frameRate=\"30\" codecs=\"avc1.64001F,mp4a.40.2\" audioSamplingRate=\"44100\" mimeType=\"video/mp4\" startWithSAP=\"1\"><BaseURL>https://ok6-8.vkuser.net/?expires=1665625243115&amp;srcIp=xxx.xxx.xxx.xxx&amp;pr=10&amp;srcAg=CHROME&amp;ms=yyy.yyy.yyy.yyy&amp;type=2&amp;sig=gKMqkxSHfAA&amp;ct=4&amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&amp;clientType=0&amp;id=1234567890123</BaseURL><SegmentBase indexRange=\"1344-8287\"><Initialization range=\"0-1343\"/></SegmentBase></Representation><Representation id=\"4\" bandwidth=\"4971144\" width=\"1280\" height=\"720\" quality=\"hd\" frameRate=\"60\" codecs=\"avc1.640020,mp4a.40.2\" audioSamplingRate=\"44100\" mimeType=\"video/mp4\" startWithSAP=\"1\"><BaseURL>https://ok6-8.vkuser.net/?expires=1665625243115&amp;srcIp=xxx.xxx.xxx.xxx&amp;pr=10&amp;srcAg=CHROME&amp;ms=yyy.yyy.yyy.yyy&amp;type=3&amp;sig=W385xiTRlO8&amp;ct=4&amp;urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&amp;clientType=0&amp;id=1234567890123</BaseURL><SegmentBase indexRange=\"1343-8286\"><Initialization range=\"0-1342\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>",
+    "metadataUrl": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=1&sig=rWh-IoJIN2w&ct=6&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+    "metadataWebmUrl": "https://ok6-8.vkuser.net/?expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&pr=10&srcAg=CHROME&ms=yyy.yyy.yyy.yyy&type=4&sig=7cBa1yPcLGE&ct=6&urls=zzz.zzz.zzz.zzz%3Bxyz.xyz.xyz.xyz&clientType=0&zs=43&id=1234567890123",
+    "hlsManifestUrl": "https://vd390.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1665625243115&srcIp=xxx.xxx.xxx.xxx&srcAg=CHROME&ms=zzz.zzz.zzz.zzz&type=4&sig=Wy_F4sAOoN8&ct=8&urls=xyz.xyz.xyz.xyz&clientType=0&id=1234567890123",
+    "failoverHosts": [
+        "vd390.mycdn.me",
+        "vd331.mycdn.me"
+    ],
+    "autoplay": {
+        "autoplayEnabled": true,
+        "timeFromEnabled": true,
+        "noRec": false,
+        "fullScreenExit": false,
+        "vitrinaSection": "recommended_movie"
+    },
+    "security": {
+        "url": "https://ok6-8.vkuser.net/usr_login",
+        "cookie": "vdsig"
+    },
+    "p2pInfo": {
+        "isPeerEnabled": false,
+        "ubsc": 0,
+        "pbsc": 0,
+        "mptpc": 0,
+        "pctmt": 0,
+        "pbesc": 0,
+        "prrt": 0,
+        "srt": 0,
+        "swrt": 0,
+        "dctt": 0
+    },
+    "stunServers": [
+        {
+            "urls": [
+                "stun:videostun.mycdn.me:80"
+            ]
+        }
+    ]
+}
+
+--------------------------------------------------------------------------------
